@@ -4,11 +4,11 @@
     "url": "https://vichnu-production.fr",
     "icon": "https://icons.duckduckgo.com/ip3/vichnu-production.fr.ico",
     "slug": "vichnu-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1535,
     "timeDay": 1471,
@@ -16,6 +16,7 @@
     "timeMonth": 1544,
     "timeYear": 1535,
     "dailyMinutesDown": {
+      "2024-03-16": 3,
       "2024-03-12": 17
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://jwago.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jwago.fr.ico",
     "slug": "jwago",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1266,
     "timeDay": 1046,
@@ -36,6 +37,7 @@
     "timeMonth": 1253,
     "timeYear": 1266,
     "dailyMinutesDown": {
+      "2024-03-16": 2,
       "2024-03-12": 15
     }
   },
