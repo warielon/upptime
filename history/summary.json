@@ -4,11 +4,11 @@
     "url": "https://vichnu-production.fr",
     "icon": "https://icons.duckduckgo.com/ip3/vichnu-production.fr.ico",
     "slug": "vichnu-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1871,
     "timeDay": 1628,
@@ -16,6 +16,7 @@
     "timeMonth": 2337,
     "timeYear": 1871,
     "dailyMinutesDown": {
+      "2024-03-18": 6,
       "2024-03-12": 17
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://jwago.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jwago.fr.ico",
     "slug": "jwago",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 1402,
     "timeDay": 913,
     "timeWeek": 2221,
     "timeMonth": 1583,
     "timeYear": 1402,
     "dailyMinutesDown": {
+      "2024-03-18": 5,
       "2024-03-12": 15
     }
   },
@@ -45,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/phoenix-accompagnement.fr.ico",
     "slug": "phoenix-accompagnement",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 1865,
     "timeDay": 1529,
     "timeWeek": 1703,
     "timeMonth": 1842,
     "timeYear": 1865,
     "dailyMinutesDown": {
-      "2024-03-18": 3
+      "2024-03-18": 20
     }
   },
   {
@@ -65,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aucoeurdes3mondes.fr.ico",
     "slug": "au-coeur-des-trois-mondes",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1671,
     "timeDay": 2038,
     "timeWeek": 1616,
     "timeMonth": 1720,
     "timeYear": 1671,
     "dailyMinutesDown": {
-      "2024-03-18": 2
+      "2024-03-18": 18
     }
   },
   {
@@ -85,18 +87,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thoirzaneries.fr.ico",
     "slug": "thoirzaneries",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1037,
     "timeDay": 719,
     "timeWeek": 811,
     "timeMonth": 867,
     "timeYear": 1037,
     "dailyMinutesDown": {
-      "2024-03-18": 0
+      "2024-03-18": 17
     }
   },
   {
