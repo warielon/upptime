@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vichnu-production.fr.ico",
     "slug": "vichnu-production",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 2226,
-    "timeDay": 1507,
-    "timeWeek": 5973,
-    "timeMonth": 3183,
-    "timeYear": 2226,
+    "uptimeYear": "99.99%",
+    "time": 2217,
+    "timeDay": 1468,
+    "timeWeek": 4712,
+    "timeMonth": 3174,
+    "timeYear": 2217,
     "dailyMinutesDown": {
       "2024-03-12": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 1376,
-    "timeDay": 1093,
-    "timeWeek": 2062,
-    "timeMonth": 1548,
-    "timeYear": 1376,
+    "time": 1374,
+    "timeDay": 1147,
+    "timeWeek": 1065,
+    "timeMonth": 1539,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2024-03-19": 18,
       "2024-03-12": 15
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 2070,
-    "timeDay": 1697,
-    "timeWeek": 3505,
-    "timeMonth": 2391,
-    "timeYear": 2070,
+    "time": 2064,
+    "timeDay": 1599,
+    "timeWeek": 3735,
+    "timeMonth": 2373,
+    "timeYear": 2064,
     "dailyMinutesDown": {
       "2024-03-18": 24
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1677,
-    "timeDay": 1595,
-    "timeWeek": 1729,
-    "timeMonth": 1727,
-    "timeYear": 1677,
+    "time": 1668,
+    "timeDay": 897,
+    "timeWeek": 1688,
+    "timeMonth": 1689,
+    "timeYear": 1668,
     "dailyMinutesDown": {
       "2024-03-18": 23
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1015,
-    "timeDay": 722,
-    "timeWeek": 777,
-    "timeMonth": 866,
-    "timeYear": 1015,
+    "time": 1012,
+    "timeDay": 807,
+    "timeWeek": 792,
+    "timeMonth": 861,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2024-03-18": 21
     }
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1160,
-    "timeDay": 1086,
-    "timeWeek": 1028,
-    "timeMonth": 1100,
+    "timeDay": 1162,
+    "timeWeek": 1040,
+    "timeMonth": 1101,
     "timeYear": 1160,
     "dailyMinutesDown": {}
   },
@@ -129,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 396,
-    "timeWeek": 363,
-    "timeMonth": 425,
-    "timeYear": 460,
+    "time": 458,
+    "timeDay": 326,
+    "timeWeek": 348,
+    "timeMonth": 418,
+    "timeYear": 458,
     "dailyMinutesDown": {}
   }
 ]
