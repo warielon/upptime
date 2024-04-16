@@ -13,7 +13,7 @@
     "time": 2060,
     "timeDay": 1586,
     "timeWeek": 1452,
-    "timeMonth": 3109,
+    "timeMonth": 3135,
     "timeYear": 2060,
     "dailyMinutesDown": {
       "2024-03-12": 17
@@ -33,7 +33,7 @@
     "time": 1351,
     "timeDay": 1440,
     "timeWeek": 1265,
-    "timeMonth": 1527,
+    "timeMonth": 1443,
     "timeYear": 1351,
     "dailyMinutesDown": {
       "2024-03-19": 18,
@@ -105,9 +105,9 @@
     "url": "https://shiftopie.org",
     "icon": "https://icons.duckduckgo.com/ip3/shiftopie.org.ico",
     "slug": "shiftopie-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +116,9 @@
     "timeWeek": 1255,
     "timeMonth": 1139,
     "timeYear": 1163,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "app.shiftopie.org",
