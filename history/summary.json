@@ -24,11 +24,11 @@
     "url": "https://jwago.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jwago.fr.ico",
     "slug": "jwago",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1336,
     "timeDay": 1422,
@@ -36,6 +36,7 @@
     "timeMonth": 1231,
     "timeYear": 1336,
     "dailyMinutesDown": {
+      "2024-04-24": 5,
       "2024-03-19": 18,
       "2024-03-12": 15
     }
@@ -45,11 +46,11 @@
     "url": "https://phoenix-accompagnement.fr",
     "icon": "https://icons.duckduckgo.com/ip3/phoenix-accompagnement.fr.ico",
     "slug": "phoenix-accompagnement",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1925,
     "timeDay": 1532,
@@ -57,6 +58,7 @@
     "timeMonth": 1539,
     "timeYear": 1925,
     "dailyMinutesDown": {
+      "2024-04-24": 3,
       "2024-03-18": 24
     }
   },
@@ -65,18 +67,19 @@
     "url": "https://aucoeurdes3mondes.fr",
     "icon": "https://icons.duckduckgo.com/ip3/aucoeurdes3mondes.fr.ico",
     "slug": "au-coeur-des-trois-mondes",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 1685,
     "timeDay": 2107,
     "timeWeek": 1833,
     "timeMonth": 1734,
     "timeYear": 1685,
     "dailyMinutesDown": {
+      "2024-04-24": 2,
       "2024-03-18": 23
     }
   },
@@ -85,9 +88,9 @@
     "url": "https://thoirzaneries.fr",
     "icon": "https://icons.duckduckgo.com/ip3/thoirzaneries.fr.ico",
     "slug": "thoirzaneries",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -97,6 +100,7 @@
     "timeMonth": 894,
     "timeYear": 978,
     "dailyMinutesDown": {
+      "2024-04-24": 0,
       "2024-03-18": 21
     }
   },
