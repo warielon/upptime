@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1983,
-    "timeDay": 1121,
-    "timeWeek": 1168,
-    "timeMonth": 1326,
-    "timeYear": 1983,
+    "time": 1985,
+    "timeDay": 2135,
+    "timeWeek": 1298,
+    "timeMonth": 1343,
+    "timeYear": 1985,
     "dailyMinutesDown": {
       "2024-03-12": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1331,
-    "timeDay": 1261,
-    "timeWeek": 1145,
-    "timeMonth": 1229,
-    "timeYear": 1331,
+    "time": 1333,
+    "timeDay": 1521,
+    "timeWeek": 1198,
+    "timeMonth": 1234,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2024-03-19": 18,
       "2024-03-12": 15
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/phoenix-accompagnement.fr.ico",
     "slug": "phoenix-accompagnement",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1910,
-    "timeDay": 1582,
-    "timeWeek": 1429,
-    "timeMonth": 1510,
-    "timeYear": 1910,
+    "uptimeYear": "99.99%",
+    "time": 1908,
+    "timeDay": 1674,
+    "timeWeek": 1485,
+    "timeMonth": 1494,
+    "timeYear": 1908,
     "dailyMinutesDown": {
       "2024-03-18": 24
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1683,
-    "timeDay": 1630,
-    "timeWeek": 1585,
-    "timeMonth": 1712,
-    "timeYear": 1683,
+    "time": 1685,
+    "timeDay": 1925,
+    "timeWeek": 1640,
+    "timeMonth": 1705,
+    "timeYear": 1685,
     "dailyMinutesDown": {
       "2024-03-18": 23
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 971,
-    "timeDay": 803,
-    "timeWeek": 806,
-    "timeMonth": 881,
-    "timeYear": 971,
+    "time": 973,
+    "timeDay": 1248,
+    "timeWeek": 854,
+    "timeMonth": 886,
+    "timeYear": 973,
     "dailyMinutesDown": {
       "2024-03-18": 21
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1167,
-    "timeDay": 1287,
-    "timeWeek": 1179,
-    "timeMonth": 1191,
-    "timeYear": 1167,
+    "time": 1170,
+    "timeDay": 1593,
+    "timeWeek": 1244,
+    "timeMonth": 1204,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2024-04-16": 17
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 381,
-    "timeWeek": 410,
-    "timeMonth": 410,
-    "timeYear": 443,
+    "time": 444,
+    "timeDay": 571,
+    "timeWeek": 424,
+    "timeMonth": 413,
+    "timeYear": 444,
     "dailyMinutesDown": {}
   }
 ]
