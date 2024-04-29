@@ -6,9 +6,9 @@
     "slug": "vichnu-production",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2175,
     "timeDay": 14156,
@@ -16,7 +16,6 @@
     "timeMonth": 2141,
     "timeYear": 2175,
     "dailyMinutesDown": {
-      "2024-04-29": 6,
       "2024-03-12": 17
     }
   },
@@ -25,10 +24,10 @@
     "url": "https://jwago.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jwago.fr.ico",
     "slug": "jwago",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1411,
@@ -37,6 +36,7 @@
     "timeMonth": 1545,
     "timeYear": 1411,
     "dailyMinutesDown": {
+      "2024-04-29": 1,
       "2024-03-19": 18,
       "2024-03-12": 15
     }
