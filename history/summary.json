@@ -45,18 +45,19 @@
     "url": "https://phoenix-accompagnement.fr",
     "icon": "https://icons.duckduckgo.com/ip3/phoenix-accompagnement.fr.ico",
     "slug": "phoenix-accompagnement",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 1974,
     "timeDay": 9968,
     "timeWeek": 2556,
     "timeMonth": 1747,
     "timeYear": 1974,
     "dailyMinutesDown": {
+      "2024-04-29": 2,
       "2024-03-18": 24
     }
   },
@@ -65,9 +66,9 @@
     "url": "https://aucoeurdes3mondes.fr",
     "icon": "https://icons.duckduckgo.com/ip3/aucoeurdes3mondes.fr.ico",
     "slug": "au-coeur-des-trois-mondes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -77,6 +78,7 @@
     "timeMonth": 1893,
     "timeYear": 1731,
     "dailyMinutesDown": {
+      "2024-04-29": 0,
       "2024-03-18": 23
     }
   },
