@@ -4,18 +4,19 @@
     "url": "https://vichnu-production.fr",
     "icon": "https://icons.duckduckgo.com/ip3/vichnu-production.fr.ico",
     "slug": "vichnu-production",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1894,
     "timeDay": 1299,
     "timeWeek": 1236,
     "timeMonth": 1256,
     "timeYear": 1894,
     "dailyMinutesDown": {
+      "2024-08-26": 5,
       "2024-03-12": 17
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://jwago.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jwago.fr.ico",
     "slug": "jwago",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1430,
     "timeDay": 969,
@@ -36,6 +37,7 @@
     "timeMonth": 1138,
     "timeYear": 1430,
     "dailyMinutesDown": {
+      "2024-08-26": 4,
       "2024-04-29": 42,
       "2024-03-19": 18,
       "2024-03-12": 15
@@ -48,9 +50,9 @@
     "slug": "phoenix-accompagnement",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1885,
     "timeDay": 1454,
@@ -58,7 +60,7 @@
     "timeMonth": 1470,
     "timeYear": 1885,
     "dailyMinutesDown": {
-      "2024-08-26": 1,
+      "2024-08-26": 12,
       "2024-03-18": 24
     }
   },
@@ -67,10 +69,10 @@
     "url": "https://aucoeurdes3mondes.fr",
     "icon": "https://icons.duckduckgo.com/ip3/aucoeurdes3mondes.fr.ico",
     "slug": "au-coeur-des-trois-mondes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1822,
@@ -79,6 +81,7 @@
     "timeMonth": 1653,
     "timeYear": 1822,
     "dailyMinutesDown": {
+      "2024-08-26": 1,
       "2024-03-18": 23
     }
   },
