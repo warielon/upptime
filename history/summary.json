@@ -4,10 +4,10 @@
     "url": "https://vichnu-production.fr",
     "icon": "https://icons.duckduckgo.com/ip3/vichnu-production.fr.ico",
     "slug": "vichnu-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1838,
@@ -16,6 +16,7 @@
     "timeMonth": 1450,
     "timeYear": 1838,
     "dailyMinutesDown": {
+      "2024-10-30": 1,
       "2024-03-12": 17
     }
   },
