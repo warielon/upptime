@@ -24,9 +24,9 @@
     "url": "https://jwago.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jwago.fr.ico",
     "slug": "jwago",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -36,6 +36,7 @@
     "timeMonth": 1397,
     "timeYear": 1425,
     "dailyMinutesDown": {
+      "2024-11-16": 0,
       "2024-04-29": 42,
       "2024-03-19": 18,
       "2024-03-12": 15
