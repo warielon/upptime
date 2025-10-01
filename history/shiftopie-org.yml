@@ -1,7 +1,7 @@
 url: https://shiftopie.org
-status: up
-code: 200
-responseTime: 2399
-lastUpdated: 2025-09-30T23:07:39.064Z
+status: down
+code: 503
+responseTime: 668
+lastUpdated: 2025-10-01T04:59:29.240Z
 startTime: 2024-01-05T14:23:18.858Z
 generator: Upptime <https://github.com/upptime/upptime>
