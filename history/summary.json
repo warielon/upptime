@@ -4,17 +4,17 @@
     "url": "https://vichnu-production.fr",
     "icon": "https://icons.duckduckgo.com/ip3/vichnu-production.fr.ico",
     "slug": "vichnu-production",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.76%",
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "98.75%",
     "time": 1768,
-    "timeDay": 1393,
-    "timeWeek": 1744,
-    "timeMonth": 1561,
-    "timeYear": 1659,
+    "timeDay": 1424,
+    "timeWeek": 1708,
+    "timeMonth": 1558,
+    "timeYear": 1658,
     "dailyMinutesDown": {
       "2025-08-21": 90,
       "2025-08-22": 19,
@@ -30,7 +30,7 @@
       "2026-02-05": 117,
       "2026-03-18": 46,
       "2026-03-20": 47,
-      "2026-06-28": 0
+      "2026-06-28": 61
     }
   },
   {
