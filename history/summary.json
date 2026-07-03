@@ -133,10 +133,10 @@
     "slug": "shiftopie-org",
     "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "98.56%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "98.55%",
     "time": 1692,
     "timeDay": 1699,
     "timeWeek": 1598,
@@ -200,7 +200,7 @@
       "2026-06-20": 117,
       "2026-06-26": 211,
       "2026-07-01": 148,
-      "2026-07-03": 0
+      "2026-07-03": 41
     }
   },
   {
