@@ -131,13 +131,13 @@
     "url": "https://shiftopie.org",
     "icon": "https://icons.duckduckgo.com/ip3/shiftopie.org.ico",
     "slug": "shiftopie-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.37%",
     "uptimeMonth": "97.47%",
     "uptimeYear": "98.52%",
-    "time": 1693,
+    "time": 1694,
     "timeDay": 1193,
     "timeWeek": 1434,
     "timeMonth": 1519,
@@ -200,7 +200,8 @@
       "2026-06-20": 117,
       "2026-06-26": 211,
       "2026-07-01": 148,
-      "2026-07-03": 217
+      "2026-07-03": 217,
+      "2026-07-07": 0
     }
   },
   {
