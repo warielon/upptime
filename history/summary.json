@@ -70,17 +70,17 @@
     "url": "https://aucoeurdes3mondes.fr",
     "icon": "https://icons.duckduckgo.com/ip3/aucoeurdes3mondes.fr.ico",
     "slug": "au-coeur-des-trois-mondes",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 2395,
-    "timeDay": 2684,
-    "timeWeek": 2181,
-    "timeMonth": 2100,
-    "timeYear": 2329,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 2394,
+    "timeDay": 2046,
+    "timeWeek": 2085,
+    "timeMonth": 2077,
+    "timeYear": 2326,
     "dailyMinutesDown": {
       "2025-08-21": 87,
       "2025-08-22": 16,
@@ -93,7 +93,7 @@
       "2026-03-19": 43,
       "2026-04-15": 49,
       "2026-04-21": 65,
-      "2026-07-25": 0
+      "2026-07-25": 50
     }
   },
   {
