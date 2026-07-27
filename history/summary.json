@@ -208,19 +208,19 @@
     "url": "https://shiftopie.herokuapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/shiftopie.herokuapp.com.ico",
     "slug": "app-shiftopie-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "86.00%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.96%",
     "time": 544,
-    "timeDay": 660,
-    "timeWeek": 574,
-    "timeMonth": 527,
+    "timeDay": 665,
+    "timeWeek": 586,
+    "timeMonth": 532,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2026-07-27": 0
+      "2026-07-27": 202
     }
   }
 ]
